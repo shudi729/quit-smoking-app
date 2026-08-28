@@ -1,0 +1,25 @@
+{
+  "name": "quit-smoking-app",
+  "version": "1.0.0",
+  "description": "戒烟助手 · AI 戒烟教练 —— 纯前端离线优先的戒烟 PWA，含 Agent 干预与 3D 器官演变",
+  "private": true,
+  "scripts": {
+    "start": "node serve.js 8123",
+    "dev": "node serve.js 8123",
+    "serve": "node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "quit-smoking",
+    "smoking-cessation",
+    "health",
+    "pwa",
+    "three.js",
+    "webgl",
+    "ai-coach",
+    "offline-first"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/libs": true,
+    "**/organs": true,
+    "**/node_modules": true
+  },
+  "files.watcherExclude": {
+    "**/libs/**": true,
+    "**/organs/**": true,
+    "**/node_modules/**": true
+  },
+  "html.format.wrapLineLength": 0,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.js": "javascript"
+  }
+}

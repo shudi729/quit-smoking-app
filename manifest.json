@@ -1,0 +1,16 @@
+{
+  "name": "戒烟助手",
+  "short_name": "戒烟助手",
+  "description": "戒烟计时、省钱统计、健康里程碑与烟瘾急救，帮你重新掌控健康。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f8f6",
+  "theme_color": "#0b7a5c",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

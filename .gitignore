@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.idea/
+*.swp
+# 注：.vscode/ 提交共享（含排除大目录索引配置，对克隆者有用）
+
+# Backup
+_backup*/
+*.tmp
